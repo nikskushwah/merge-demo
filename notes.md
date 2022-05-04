@@ -1,4 +1,0 @@
-
-# Notes
-
-Post your notes
