@@ -1,6 +1,2 @@
 - Eat
 - Read
-- No Sleep
-- Sleeping
-- Listen to Music
-- Reading
