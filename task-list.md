@@ -1,5 +1,3 @@
 - Eat
 - Read
-- Sleep
-- Gym
 
